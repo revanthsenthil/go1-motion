@@ -1,0 +1,1 @@
+catkin_create_pkg go1-motion roscpp rospy geometry_msgs unitree_legged_msgs

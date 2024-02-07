@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(go1-math-motion)
+project(go1-motion)
 
 add_compile_options(-std=c++11)
 
