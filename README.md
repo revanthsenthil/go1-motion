@@ -1,9 +1,9 @@
-# go1-math-motion
+# go1-motion
 
 Go1 high level control with ROS
 
-- git clone https://github.com/dbaldwin/go1-math-motion
-- cd go1-math-motion
+- git clone https://github.com/revanthsenthil/go1-motion
+- cd go1-motion
 - docker run -p 6080:80 -v ${PWD}:/home/ubuntu/catkin_ws/src --shm-size=512m --name go1-ros-testing -d tiryoh/ros-desktop-vnc:melodic
 - http://localhost:6080
 - Open terminal and cd ~/catkin_ws/src
